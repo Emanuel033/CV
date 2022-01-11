@@ -1,0 +1,140 @@
+a{
+  color: #DDDDDD;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+body{
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  font-size: 5.625rem;
+  font-family: 'Qwitcher Grypen', cursive;
+  margin: 5px auto 0;
+  line-height: 2;
+  padding: 5px;
+  color: #30475E;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #30475E;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #F05454;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:#EAF6F6;
+  border-width:6px;
+  width:4%;
+  margin: 100px auto;
+}
+p{
+  line-height: 200%;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #30475E;
+  margin-bottom: 0;
+  line-height: 200%;
+  color: white;
+  padding: 50px 0 20px;
+}
+
+
+.backend-img{
+  float: right;
+  width: 25%;
+  padding-left: 30px;
+}
+.frontend-img{
+  float: left;
+  width: 25%;
+  padding-right: 30px;
+}
+.coding-img{
+  width: 25%;
+}
+.contact-me{
+  margin: 100px auto;
+}
+.comtact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #DDDDDD;
+  font-size: 0.76rem;
+  padding: 20px 0;
+}
+.footer-link{
+  padding-right: 20px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.pro{
+  text-decoration: underline;
+}
+.profile{
+  margin: 100px auto;
+}
+.profile-desc{
+  text-align: justify;
+  margin: auto;
+  width: 33%;
+}
+.profile-img{
+  border-radius: 50%;
+  width: 20%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+
+.top-container{
+  background-color: #DDDDDD;
+  background-image: url("https://makcreates.com/wp-content/uploads/2018/03/black-background-mak-creates-web-design-services-1500-2500.jpg");
+  position: relative;
+  padding-top: 100px;
+}
